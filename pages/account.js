@@ -1,6 +1,7 @@
-export default function AccountPage(){
-
-    return <div>
-    <p>hello!</p>
+export default function AccountPage() {
+  return (
+    <div>
+      <p>hello!</p>
     </div>
+  );
 }

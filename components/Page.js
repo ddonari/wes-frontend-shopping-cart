@@ -69,7 +69,6 @@ export default function Page({ children, cool }) {
       <GlobalStyles />
       <Header />
       <InnerStyles> {children}</InnerStyles>
-      {children}
     </div>
   );
 }
