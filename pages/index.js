@@ -1,8 +1,8 @@
-import Page from "../components/Page"
-
-export default function IndexPage(){
-
-    return <Page>
-    <p>hello!</p>
-    </Page>
+export default function IndexPage() {
+  return (
+    <>
+      <p>I'm the index Page</p>
+      <p>remember, index Page</p>
+    </>
+  );
 }
